@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Templates>
+  <Template>
+    <ID>1</ID>
+    <Title>テキスト１</Title>
+    <Content>テキスト１です。</Content>
+  </Template>
+  <Template>
+    <ID>2</ID>
+    <Title>テキスト２</Title>
+    <Content>テキスト２です。</Content>
+  </Template>
+  <Template>
+    <ID>3</ID>
+    <Title>テキスト３</Title>
+    <Content>テキスト３です。</Content>
+  </Template>
+  <Template>
+    <ID>4</ID>
+    <Title>テキスト４</Title>
+    <Content>テキスト４です。</Content>
+  </Template>
+  <Template>
+    <ID>5</ID>
+    <Title>テキスト５</Title>
+    <Content>テキスト５です。</Content>
+  </Template>
+</Templates>
