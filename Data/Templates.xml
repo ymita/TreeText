@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Categories>
+  <Category>
+    <ID>1</ID>
+    <Title>Category 1</Title>
+    <Templates>
+      <Template>
+        <ID>1</ID>
+        <Title>Text 1</Title>
+        <Content>This is Text 1.</Content>
+      </Template>
+      <Template>
+        <ID>2</ID>
+        <Title>Text 2</Title>
+        <Content>This is Text 2.</Content>
+      </Template>
+    </Templates>
+  </Category>
+  <Category>
+    <ID>2</ID>
+    <Title>Category 2</Title>
+    <Templates>
+      <Template>
+        <ID>1</ID>
+        <Title>Text 3</Title>
+        <Content>This is Text 3.</Content>
+      </Template>
+      <Template>
+        <ID>4</ID>
+        <Title>Text 4</Title>
+        <Content>This is Text 4.</Content>
+      </Template>
+    </Templates>
+  </Category>
+</Categories>
