@@ -1,5 +1,5 @@
 # TreeText
 
 ```SQL
-MariaDB [test]> SELECT * FROM department;
+MariaDB [test]> desc person;
 ```
